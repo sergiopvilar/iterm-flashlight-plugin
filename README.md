@@ -6,7 +6,7 @@
 
 This plugins enables you to open the current Finder selection in iTerm2.
 
-Example usage:
+### Example usage:
 
 You can type a specific folder:
 `iterm desktop`
